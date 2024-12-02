@@ -1,17 +1,17 @@
 
 # Into the Radius Modding
 
-This repository is a collaborative resource for the **Into the Radius** modding community. It is not officially affiliated with **CM Games** or the **Into the Radius** development team. All content is community-driven and primarily intended for creating mods for **Into the Radius**, though tools and resources may also be reused for other games with proper credit to the original sources.  
+This repository is a collaborative resource for the **Into the Radius** modding community. It is not officially affiliated with **CM Games** or the **Into the Radius** development team. All content is community-driven and primarily intended for creating mods for **Into the Radius**, though tools and resources may also be reused for other games with proper credit to the original sources.
 
 ---
 
-## Repository Use and Restrictions  
+## Repository Use and Restrictions
 
-This repository is **for the Into the Radius modding community**. While all files and assets provided here are intended specifically for modding **Into the Radius**, the tools and resources made available may be reused for modding other games, provided that appropriate credit is given to the original sources.  
+This repository is **for the Into the Radius modding community**. While all files and assets provided here are intended specifically for modding **Into the Radius**, the tools and resources made available may be reused for modding other games, provided that appropriate credit is given to the original sources.
 
 ---
 
-### Key Restrictions  
+### Key Restrictions
 
 - **Do not upload game assets to a repository unless they are *required* for the project**
   - An exclusion to this would be uploading a texture file to use as reference in documentation or re-use in a mod.
@@ -20,13 +20,13 @@ This repository is **for the Into the Radius modding community**. While all file
 
 ---
 
-## Modding Guidelines  
+## Modding Guidelines
 
-1. Follow all ethical and legal guidelines during mod development.  
+1. Follow all ethical and legal guidelines during mod development.
 2. Do not repurpose assets for other games or unrelated projects.
 
 ---
 
-## Community Integrity  
+## Community Integrity
 
 This repository reflects the trust and collaborative spirit of the **Into the Radius** modding community. Violations of these terms, including unauthorized sharing or misuse of assets, will result in the loss of repository access.
