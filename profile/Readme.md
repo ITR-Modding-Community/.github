@@ -1,5 +1,5 @@
 
-# Into the Radius Modding Community Repository  
+# Into the Radius Modding
 
 This repository is a collaborative resource for the **Into the Radius** modding community. It is not officially affiliated with **CM Games** or the **Into the Radius** development team. All content is community-driven and primarily intended for creating mods for **Into the Radius**, though tools and resources may also be reused for other games with proper credit to the original sources.  
 
